@@ -1,52 +1,52 @@
 # Raviteja-FinTech-
 
-**Case Study: Exploring Financial Technology Investments - A Comprehensive Analysis of ETFs and Individual Stocks**
+## Case Study: Exploring Financial Technology Investments - A Comprehensive Analysis of ETFs and Individual Stocks**
 
-**Objective:**
+### Objective:
 
 The objective of this case study is to provide an in-depth analysis of a dataset tailored for individuals interested in the stock market, with a specific focus on the Financial Technology (Fintech) space. The dataset is meticulously organized into two main folders: ETFS and EQUITY, each containing historical data CSV files spanning five years. Additionally, a Markdown file accompanies each entity, furnishing crucial company information.
 
-**Key Features of the Dataset:**
+### Key Features of the Dataset:
 
-**Granular Historical Data:**
+#### Granular Historical Data:
 
 The dataset provides a meticulous breakdown of historical data, allowing users to perform comprehensive trend analyses, volatility assessments, and other crucial market evaluations over a significant 5-year period.
 
-**Diverse Investment Vehicles:**
+#### Diverse Investment Vehicles:
 
 By segregating the dataset into ETFs and individual stocks, users gain access to a diverse range of investment options. This duality enables investors to explore both broad-market trends through ETFs and the specific performance of individual companies.
 
-**Rich Company Information:**
+#### Rich Company Information:
 
 The accompanying Markdown files offer rich company-centric details, going beyond numerical data. Investors can delve into the backstory, corporate strategies, and competitive advantages of each ETF and individual stock, aiding in a holistic understanding of the investment landscape.
 
-**Potential Use Cases:**
+### Potential Use Cases:
 
-**Portfolio Construction and Diversification:**
+#### Portfolio Construction and Diversification:
 
 Investors can leverage the dataset to construct diversified portfolios by blending ETFs and individual stocks. The historical data facilitates a comprehensive risk-return analysis to optimize portfolio composition.
 
-**Market Trend Analysis:**
+#### Market Trend Analysis:
 
 Analysts and researchers can utilize the dataset to discern overarching trends within the Fintech sector. The ETFs provide a macroscopic view, while individual stock data allows for a fine-grained examination of specific companies.
 
-**Risk Management and Performance Evaluation:**
+#### Risk Management and Performance Evaluation:
 
 Traders and risk managers can assess the dataset for historical performance, aiding in risk management strategies and benchmarking against market indices.
 
-**Challenges and Considerations:**
+### Challenges and Considerations:
 
-**Data Cleansing and Quality Assurance:**
+#### Data Cleansing and Quality Assurance:
 
 Users should conduct thorough data cleansing and quality checks to ensure accurate and reliable analysis, considering potential outliers or inconsistencies in the historical data.
 
-**Market Volatility and External Factors:**
+#### Market Volatility and External Factors:
 
 The Fintech sector, like any other, is susceptible to market volatility and external factors. Users should be mindful of the broader economic context when interpreting historical data.
 
-**Dataset Structure:**
+### Dataset Structure:
 
-**ETFS Folder:**
+#### ETFS Folder:
 
 This folder encapsulates 10 Exchange-Traded Funds (ETFs) pertinent to the Fintech industry.
 
@@ -54,7 +54,7 @@ Each ETF is accompanied by a 5-year historical data CSV file, offering a compreh
 
 A corresponding Markdown file is provided, delivering insightful details about the ETF, including its inception, investment strategy, and key performance indicators.
 
-**EQUITY Folder:**
+#### EQUITY Folder:
 
 Within this folder, there are 22 Individual stocks that represent prominent players in the Fintech sector.
 
@@ -62,7 +62,7 @@ Similar to the ETFs, each individual stock is furnished with a dedicated 5-year 
 
 Accompanying Markdown files contain detailed information about the respective companies, encompassing aspects such as founding history, product and service offerings, partnerships, and overall market positioning.
 
-**Tasks:**
+### Tasks:
 
 | **SI NO** | **Tasks** |
 | --- | --- | 
