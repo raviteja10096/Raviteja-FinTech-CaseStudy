@@ -10,61 +10,61 @@ The objective of this case study is to provide an in-depth analysis of a dataset
 
 #### Granular Historical Data:
 
-The dataset provides a meticulous breakdown of historical data, allowing users to perform comprehensive trend analyses, volatility assessments, and other crucial market evaluations over a significant 5-year period.
+* The dataset provides a meticulous breakdown of historical data, allowing users to perform comprehensive trend analyses, volatility assessments, and other crucial market evaluations over a significant 5-year period.
 
 #### Diverse Investment Vehicles:
 
-By segregating the dataset into ETFs and individual stocks, users gain access to a diverse range of investment options. This duality enables investors to explore both broad-market trends through ETFs and the specific performance of individual companies.
+* By segregating the dataset into ETFs and individual stocks, users gain access to a diverse range of investment options. This duality enables investors to explore both broad-market trends through ETFs and the specific performance of individual companies.
 
 #### Rich Company Information:
 
-The accompanying Markdown files offer rich company-centric details, going beyond numerical data. Investors can delve into the backstory, corporate strategies, and competitive advantages of each ETF and individual stock, aiding in a holistic understanding of the investment landscape.
+* The accompanying Markdown files offer rich company-centric details, going beyond numerical data. Investors can delve into the backstory, corporate strategies, and competitive advantages of each ETF and individual stock, aiding in a holistic understanding of the investment landscape.
 
 ### Potential Use Cases:
 
 #### Portfolio Construction and Diversification:
 
-Investors can leverage the dataset to construct diversified portfolios by blending ETFs and individual stocks. The historical data facilitates a comprehensive risk-return analysis to optimize portfolio composition.
+* Investors can leverage the dataset to construct diversified portfolios by blending ETFs and individual stocks. The historical data facilitates a comprehensive risk-return analysis to optimize portfolio composition.
 
 #### Market Trend Analysis:
 
-Analysts and researchers can utilize the dataset to discern overarching trends within the Fintech sector. The ETFs provide a macroscopic view, while individual stock data allows for a fine-grained examination of specific companies.
+* Analysts and researchers can utilize the dataset to discern overarching trends within the Fintech sector. The ETFs provide a macroscopic view, while individual stock data allows for a fine-grained examination of specific companies.
 
 #### Risk Management and Performance Evaluation:
 
-Traders and risk managers can assess the dataset for historical performance, aiding in risk management strategies and benchmarking against market indices.
+* Traders and risk managers can assess the dataset for historical performance, aiding in risk management strategies and benchmarking against market indices.
 
 ### Challenges and Considerations:
 
 #### Data Cleansing and Quality Assurance:
 
-Users should conduct thorough data cleansing and quality checks to ensure accurate and reliable analysis, considering potential outliers or inconsistencies in the historical data.
+* Users should conduct thorough data cleansing and quality checks to ensure accurate and reliable analysis, considering potential outliers or inconsistencies in the historical data.
 
 #### Market Volatility and External Factors:
 
-The Fintech sector, like any other, is susceptible to market volatility and external factors. Users should be mindful of the broader economic context when interpreting historical data.
+* The Fintech sector, like any other, is susceptible to market volatility and external factors. Users should be mindful of the broader economic context when interpreting historical data.
 
 ### Dataset Structure:
 
 #### ETFS Folder:
 
-This folder encapsulates 10 Exchange-Traded Funds (ETFs) pertinent to the Fintech industry.
+* This folder encapsulates 10 Exchange-Traded Funds (ETFs) pertinent to the Fintech industry.
 
-Each ETF is accompanied by a 5-year historical data CSV file, offering a comprehensive view of its market performance over time.
+* Each ETF is accompanied by a 5-year historical data CSV file, offering a comprehensive view of its market performance over time.
 
-A corresponding Markdown file is provided, delivering insightful details about the ETF, including its inception, investment strategy, and key performance indicators.
+* A corresponding Markdown file is provided, delivering insightful details about the ETF, including its inception, investment strategy, and key performance indicators.
 
 #### EQUITY Folder:
 
-Within this folder, there are 22 Individual stocks that represent prominent players in the Fintech sector.
+* Within this folder, there are 22 Individual stocks that represent prominent players in the Fintech sector.
 
-Similar to the ETFs, each individual stock is furnished with a dedicated 5-year historical data CSV file, facilitating a nuanced analysis of its market trajectory.
+* Similar to the ETFs, each individual stock is furnished with a dedicated 5-year historical data CSV file, facilitating a nuanced analysis of its market trajectory.
 
-Accompanying Markdown files contain detailed information about the respective companies, encompassing aspects such as founding history, product and service offerings, partnerships, and overall market positioning.
+* Accompanying Markdown files contain detailed information about the respective companies, encompassing aspects such as founding history, product and service offerings, partnerships, and overall market positioning.
 
 ### Tasks:
 
-| **SI NO** | **Tasks** |
+| **S NO** | **Tasks** |
 | --- | --- | 
 | 1 | What are the key statistical measures for each ETF and individual stock, such as mean, median, standard deviation, and skewness, over the 5-year period? |
 | 2 | Can you identify any noticeable trends or patterns in the historical data of ETFs and individual stocks? | 
