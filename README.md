@@ -1,4 +1,4 @@
-# Raviteja-FinTech-
+# Raviteja-FinTech-Case-Study
 
 ## Case Study: Exploring Financial Technology Investments - A Comprehensive Analysis of ETFs and Individual Stocks**
 
