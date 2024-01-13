@@ -64,7 +64,7 @@ The objective of this case study is to provide an in-depth analysis of a dataset
 
 ### Tasks:
 
-| **S NO** | **Tasks** |
+| **S.No** | **Tasks** |
 | --- | --- | 
 | 1 | What are the key statistical measures for each ETF and individual stock, such as mean, median, standard deviation, and skewness, over the 5-year period? |
 | 2 | Can you identify any noticeable trends or patterns in the historical data of ETFs and individual stocks? | 
